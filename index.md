@@ -1,15 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TayaChang/first/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+這是我套用模板做出來的網站ㄏㄏ好玩喔You can use the [editor on GitHub](https://github.com/TayaChang/first/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+其實我不喜歡Markdown這個詞，它讓我覺得自己很像笨蛋
 
 # Header 1
 ## Header 2
